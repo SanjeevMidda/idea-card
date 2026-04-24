@@ -7,41 +7,41 @@ export const userData = [
   {
     name: "서준",
     number: 2,
-    color: "grey",
+    color: "red",
   },
   {
     name: "서연",
     number: 3,
-    color: "grey",
+    color: "blue",
   },
   {
     name: "지우",
     number: 4,
-    color: "grey",
+    color: "orange",
   },
   {
     name: "지훈",
     number: 5,
-    color: "grey",
+    color: "pink",
   },
   {
     name: "현우",
     number: 6,
-    color: "grey",
+    color: "green",
   },
   {
     name: "하은",
     number: 7,
-    color: "grey",
+    color: "purple",
   },
   {
     name: "민서",
     number: 8,
-    color: "grey",
+    color: "brown",
   },
   {
     name: "준호",
     number: 9,
-    color: "grey",
+    color: "gold",
   },
 ];
