@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <div className="userContainer">
         {userData.map((user) => {
-          return <UserCard userData={user} />;
+          return <UserCard userData={user} key={user.number} />;
         })}
       </div>
     </div>

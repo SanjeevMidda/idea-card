@@ -11,12 +11,6 @@
   height: 100dvh;
 }
 
-.circle {
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
-}
-
 .userContainer {
   display: flex;
   flex-wrap: wrap;
@@ -34,13 +28,18 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  /* border: 1px solid black; */
-}
 
-.userInfo {
-  margin-top: 15px;
-}
+  .circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
 
-span {
-  font-weight: 550;
+  .userInfo {
+    margin-top: 15px;
+  }
+
+  span {
+    font-weight: 550;
+  }
 }
